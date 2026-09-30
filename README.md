@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hallo, ich bin Silberspur! 👋
 
-<!--
-**Silberspur/Silberspur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Willkommen auf meinem GitHub-Profil! Ich lerne gerade Schritt für Schritt das Programmieren und erstelle hier meine ersten eigenen Webseiten und kleinen Spiele.
 
-Here are some ideas to get you started:
+🎃 Mein aktuelles Projekt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ich habe eine Herbst-Webseite gebaut, auf der man sogar ein interaktives Geister-fangen-Spiel spielen kann!
+
+👉 Klicke hier, um meine Herbst-Webseite zu besuchen! Silberspur.github.io
+🛠️ Was ich bisher gelernt habe
+
+    HTML5: Aufbau von Webseiten & Formularen
+
+    CSS3: Styling, Farben & Design
+
+    JavaScript: Spiele-Logik, Buttons & Klick-Events
+
+    Git & GitHub: Code speichern, Versionen verwalten & GitHub Pages nutzen
+
+💡 „Jede Zeile Code ist ein Schritt nach vorne.“
