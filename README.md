@@ -1,6 +1,6 @@
 # Hallo, ich bin Silberspur! 👋
 
-Willkommen auf meinem GitHub-Profil! Ich lerne gerade Schritt für Schritt das Programmieren und erstelle hier meine ersten eigenen Webseiten und kleinen Spiele.
+Willkommen auf meinem GitHub-Profil! Ich lerne gerade Schritt für Schritt das Programmieren und erstelle hier meine erste eigene Webseite und kleine Spiele.
 
 🎃 Mein aktuelles Projekt
 
