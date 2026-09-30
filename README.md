@@ -7,6 +7,7 @@ Willkommen auf meinem GitHub-Profil! Ich lerne gerade Schritt für Schritt das P
 Ich habe eine Herbst-Webseite gebaut, auf der man sogar ein interaktives Geister-fangen-Spiel spielen kann!
 
 👉 Klicke hier, um meine Herbst-Webseite zu besuchen! https://Silberspur.github.io
+
 🛠️ Was ich bisher gelernt habe
 
     HTML5: Aufbau von Webseiten & Formularen
